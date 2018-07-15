@@ -1,8 +1,9 @@
-# client
-
 > A Vue.js project Nightlife coordination
 
-## Build Setup
+## Example
+[https://nightlife-coordination-client.herokuapp.com](https://nightlife-coordination-client.herokuapp.com) (wait ~20 sec)
+
+### Build Setup
 
 ``` bash
 # install dependencies
